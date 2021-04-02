@@ -2,7 +2,7 @@
 Context: I wrote the R script named 'HW3.R' for the third assignment of the Coursera course entitled 'Bioconductor for Genomic Data Science'.
 
 About:
-The R script uses bioconductor tools to obtain and analyse microarray (gene expression and methylation) and RNA-Seq data. 
+The R script uses Bioconductor tools to obtain and analyse microarray (gene expression and methylation) and RNA-Seq data. 
 
 Software:
 1. R version 4.0.4 (2021-02-15).
